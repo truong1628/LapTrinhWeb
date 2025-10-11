@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nvtru\\source\\repos\\Day8EF_CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE2375-9397-4691-86DE-605A3E50E3B8}|Day8EF_CF\\Day8EF_CF.csproj|c:\\users\\nvtru\\source\\repos\\day8ef_cf\\day8ef_cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EDE2375-9397-4691-86DE-605A3E50E3B8}|Day8EF_CF\\Day8EF_CF.csproj|solutionrelative:day8ef_cf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE2375-9397-4691-86DE-605A3E50E3B8}|Day8EF_CF\\Day8EF_CF.csproj|c:\\users\\nvtru\\source\\repos\\day8ef_cf\\day8ef_cf\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EDE2375-9397-4691-86DE-605A3E50E3B8}|Day8EF_CF\\Day8EF_CF.csproj|solutionrelative:day8ef_cf\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nvtru\\source\\repos\\Day8EF_CF\\Day8EF_CF\\appsettings.json",
+              "RelativeDocumentMoniker": "Day8EF_CF\\appsettings.json",
+              "ToolTip": "C:\\Users\\nvtru\\source\\repos\\Day8EF_CF\\Day8EF_CF\\appsettings.json",
+              "RelativeToolTip": "Day8EF_CF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T15:36:18.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\nvtru\\source\\repos\\Day8EF_CF\\Day8EF_CF\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Day8EF_CF\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\nvtru\\source\\repos\\Day8EF_CF\\Day8EF_CF\\appsettings.Development.json",
+              "RelativeToolTip": "Day8EF_CF\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T15:36:16.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
